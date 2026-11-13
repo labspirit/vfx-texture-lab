@@ -40,6 +40,7 @@
 - WORKLOG.md: 로컬 저장 스크립트가 체크포인트 시간·설명을 추가한다.
 - scripts/checkpoint.mjs: 빌드 → 검증 → 변경 커밋 → 로컬 ZIP. --sync를 주면 origin에 push.
 - PORTABILITY.md: 다른 컴퓨터에서 이어가는 방법.
+- 로컬 Git main 브랜치를 초기화했고 origin을 위 저장소로 연결했다. 로컬 체크포인트 스크립트의 빌드·검증·커밋·ZIP 생성을 확인했다. 이후 원격 저장 결과는 Git의 origin/main과 실제 push 결과로 확인한다.
 - 현재 미완료 기능 요청은 없다. 다음 사용자 요청을 받아 이 소스에서 이어간다.
 
 ## 다른 컴퓨터/계정의 첫 요청 예시
