@@ -1,0 +1,14 @@
+# Local snapshots / old copies stay on disk, outside source history.
+backup-*/
+_backups/
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+

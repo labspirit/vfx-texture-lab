@@ -1,0 +1,806 @@
+{
+  "total": 160,
+  "failures": 0,
+  "results": [
+    {
+      "name": "블러",
+      "pass": true,
+      "detail": "14954 pixels · MAD 9.977"
+    },
+    {
+      "name": "디렉셔널 블러",
+      "pass": true,
+      "detail": "15291 pixels · MAD 13.678"
+    },
+    {
+      "name": "Bloom",
+      "pass": true,
+      "detail": "16033 pixels · MAD 26.305"
+    },
+    {
+      "name": "샤프니스",
+      "pass": true,
+      "detail": "15148 pixels · MAD 14.148"
+    },
+    {
+      "name": "픽셀화",
+      "pass": true,
+      "detail": "15283 pixels · MAD 16.699"
+    },
+    {
+      "name": "색수차",
+      "pass": true,
+      "detail": "16052 pixels · MAD 22.397"
+    },
+    {
+      "name": "비네트",
+      "pass": true,
+      "detail": "14144 pixels · MAD 5.087"
+    },
+    {
+      "name": "스캔라인",
+      "pass": true,
+      "detail": "5504 pixels · MAD 2.669"
+    },
+    {
+      "name": "만화경",
+      "pass": true,
+      "detail": "15821 pixels · MAD 30.504"
+    },
+    {
+      "name": "미러 타일",
+      "pass": true,
+      "detail": "15866 pixels · MAD 27.392"
+    },
+    {
+      "name": "스월",
+      "pass": true,
+      "detail": "15819 pixels · MAD 27.247"
+    },
+    {
+      "name": "에지 검출",
+      "pass": true,
+      "detail": "16042 pixels · MAD 36.810"
+    },
+    {
+      "name": "Toon 계조",
+      "pass": true,
+      "detail": "16000 pixels · MAD 51.306"
+    },
+    {
+      "name": "비네트 마스크",
+      "pass": true,
+      "detail": "10111 pixels · MAD 5.856"
+    },
+    {
+      "name": "흑백 모드 색수차",
+      "pass": true,
+      "detail": "16345 pixels"
+    },
+    {
+      "name": "스캔라인 64px",
+      "pass": true,
+      "detail": "34.38% of pixels"
+    },
+    {
+      "name": "스캔라인 128px",
+      "pass": true,
+      "detail": "33.59% of pixels"
+    },
+    {
+      "name": "스캔라인 256px",
+      "pass": true,
+      "detail": "33.59% of pixels"
+    },
+    {
+      "name": "심리스 경계 · none",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · blur",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · directional",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · bloom",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · sharp",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · pixel",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · rgb",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · vignette",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · scan",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · kaleido",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · mirror",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · swirl",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · edge",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · toon",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "심리스 경계 · mask",
+      "pass": true,
+      "detail": "max 0 · mean 0.0000"
+    },
+    {
+      "name": "복합 후처리 + 타일링",
+      "pass": true,
+      "detail": "max 0"
+    },
+    {
+      "name": "전체 후처리 우회",
+      "pass": true,
+      "detail": "MAD 0.0000"
+    },
+    {
+      "name": "실제 이미지 극좌표 · Ring",
+      "pass": true,
+      "detail": "max 0.65 · mean 0.089"
+    },
+    {
+      "name": "실제 이미지 극좌표 · FbmNoise",
+      "pass": true,
+      "detail": "max 0.58 · mean 0.248"
+    },
+    {
+      "name": "실제 이미지 극좌표 · Fire",
+      "pass": true,
+      "detail": "max 0.54 · mean 0.046"
+    },
+    {
+      "name": "실제 이미지 극좌표 · Stripe",
+      "pass": true,
+      "detail": "max 0.87 · mean 0.199"
+    },
+    {
+      "name": "디렉셔널 0도 · 수평 확산",
+      "pass": true,
+      "detail": "variance 326.88 / 229.85"
+    },
+    {
+      "name": "디렉셔널 90도 · 수직 확산",
+      "pass": true,
+      "detail": "variance 229.85 / 326.88"
+    },
+    {
+      "name": "소재 출력 · Circle",
+      "pass": true,
+      "detail": "range 0–165"
+    },
+    {
+      "name": "소재 출력 · Vignette",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · LensFlare",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Sun",
+      "pass": true,
+      "detail": "range 1–228"
+    },
+    {
+      "name": "소재 출력 · SolarGlow",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Ring",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Crescent",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Flash",
+      "pass": true,
+      "detail": "range 0–214"
+    },
+    {
+      "name": "소재 출력 · EnergyRing",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · AuraRing",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Halo",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Ripple",
+      "pass": true,
+      "detail": "range 0–252"
+    },
+    {
+      "name": "소재 출력 · Concentric",
+      "pass": true,
+      "detail": "range 0–245"
+    },
+    {
+      "name": "소재 출력 · Pulse",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · MetaBalls",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · WaveRingSine",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · WaveRingNoisy",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · WaveRingSquare",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · WaveRingDouble",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Star",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Polygon",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · HexGridRadial",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Rectangle",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Checker",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · GradientChecker",
+      "pass": true,
+      "detail": "range 0–253"
+    },
+    {
+      "name": "소재 출력 · RoundChecker",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · DiamondChecker",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Spark",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Flare",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Cross",
+      "pass": true,
+      "detail": "range 0–231"
+    },
+    {
+      "name": "소재 출력 · Glare",
+      "pass": true,
+      "detail": "range 0–250"
+    },
+    {
+      "name": "소재 출력 · StarFlare",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · RayBurst",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Burst",
+      "pass": true,
+      "detail": "range 0–252"
+    },
+    {
+      "name": "소재 출력 · ImpactLines",
+      "pass": true,
+      "detail": "range 0–254"
+    },
+    {
+      "name": "소재 출력 · RadialLines",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · SpiralV2",
+      "pass": true,
+      "detail": "range 0–254"
+    },
+    {
+      "name": "소재 출력 · Swirl",
+      "pass": true,
+      "detail": "range 0–246"
+    },
+    {
+      "name": "소재 출력 · GodRay",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · StarBurst",
+      "pass": true,
+      "detail": "range 0–253"
+    },
+    {
+      "name": "소재 출력 · Flower",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Spiral",
+      "pass": true,
+      "detail": "range 0–245"
+    },
+    {
+      "name": "소재 출력 · Energy",
+      "pass": true,
+      "detail": "range 0–248"
+    },
+    {
+      "name": "소재 출력 · Crack",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Bokeh",
+      "pass": true,
+      "detail": "range 0–149"
+    },
+    {
+      "name": "소재 출력 · Shimmer",
+      "pass": true,
+      "detail": "range 0–159"
+    },
+    {
+      "name": "소재 출력 · VoronoiFluid",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Speckle",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · CrossGrid",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · SquareGrid",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · PyramidPattern",
+      "pass": true,
+      "detail": "range 4–244"
+    },
+    {
+      "name": "소재 출력 · RandomTiles",
+      "pass": true,
+      "detail": "range 0–254"
+    },
+    {
+      "name": "소재 출력 · SquareGridDash",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Dots",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · SquareGridPolka",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · DotMatrix",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Zigzag",
+      "pass": true,
+      "detail": "range 0–251"
+    },
+    {
+      "name": "소재 출력 · Crosshatch",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · TriGrid",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Bricks",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Scanline",
+      "pass": true,
+      "detail": "range 0–247"
+    },
+    {
+      "name": "소재 출력 · FlowLines",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Fabric",
+      "pass": true,
+      "detail": "range 23–254"
+    },
+    {
+      "name": "소재 출력 · PolarDots",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Weave",
+      "pass": true,
+      "detail": "range 0–254"
+    },
+    {
+      "name": "소재 출력 · Halftone",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · SweepGradient",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · GradationLinear",
+      "pass": true,
+      "detail": "range 2–253"
+    },
+    {
+      "name": "소재 출력 · GradationReflect",
+      "pass": true,
+      "detail": "range 4–251"
+    },
+    {
+      "name": "소재 출력 · GradationRepeat",
+      "pass": true,
+      "detail": "range 22–245"
+    },
+    {
+      "name": "소재 출력 · BevelSquare",
+      "pass": true,
+      "detail": "range 0–249"
+    },
+    {
+      "name": "소재 출력 · Grain",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · PerlinNoise",
+      "pass": true,
+      "detail": "range 5–252"
+    },
+    {
+      "name": "소재 출력 · FbmNoise",
+      "pass": true,
+      "detail": "range 58–223"
+    },
+    {
+      "name": "소재 출력 · DistortionWave",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · StripeNoise",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · ToxicCloud",
+      "pass": true,
+      "detail": "range 4–255"
+    },
+    {
+      "name": "소재 출력 · GeoRelief",
+      "pass": true,
+      "detail": "range 36–219"
+    },
+    {
+      "name": "소재 출력 · Smoke",
+      "pass": true,
+      "detail": "range 0–154"
+    },
+    {
+      "name": "소재 출력 · WaterTurbulence",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Electric",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · SimplexNoise",
+      "pass": true,
+      "detail": "range 8–243"
+    },
+    {
+      "name": "소재 출력 · Lava",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Wrinkle",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Crystal",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · AbsNoise",
+      "pass": true,
+      "detail": "range 0–187"
+    },
+    {
+      "name": "소재 출력 · FractalCamo",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · PlasmaV2",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Squiggles",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Grunge",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · GrungeV2",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · CellularEdge",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Twirl",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · CosmicPortal",
+      "pass": true,
+      "detail": "range 0–254"
+    },
+    {
+      "name": "소재 출력 · Wormhole",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Plasma",
+      "pass": true,
+      "detail": "range 0–229"
+    },
+    {
+      "name": "소재 출력 · MarbleNoise",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Fire",
+      "pass": true,
+      "detail": "range 0–253"
+    },
+    {
+      "name": "소재 출력 · Cloud",
+      "pass": true,
+      "detail": "range 3–253"
+    },
+    {
+      "name": "소재 출력 · Caustics",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Aurora",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Flame",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · PixelNoise",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · AnalogGlitch",
+      "pass": true,
+      "detail": "range 0–254"
+    },
+    {
+      "name": "소재 출력 · CyberBlock",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Mosaic",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · LaserBeam",
+      "pass": true,
+      "detail": "range 0–231"
+    },
+    {
+      "name": "소재 출력 · GlitchBlock",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · VoronoiCell",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Matrix",
+      "pass": true,
+      "detail": "range 0–251"
+    },
+    {
+      "name": "소재 출력 · Wood",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · SparkBurst",
+      "pass": true,
+      "detail": "range 0–217"
+    },
+    {
+      "name": "소재 출력 · VoronoiNoise",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Cell",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Lightning",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Kaleido",
+      "pass": true,
+      "detail": "range 40–220"
+    },
+    {
+      "name": "소재 출력 · SymmetricNoise",
+      "pass": true,
+      "detail": "range 42–221"
+    },
+    {
+      "name": "소재 출력 · Stripe",
+      "pass": true,
+      "detail": "range 0–255"
+    },
+    {
+      "name": "소재 출력 · Slash",
+      "pass": true,
+      "detail": "range 0–255"
+    }
+  ]
+}
